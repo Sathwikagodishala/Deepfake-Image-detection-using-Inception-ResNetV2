@@ -1,0 +1,7 @@
+gradio==3.0.9
+Pillow
+facenet-pytorch==2.5.2
+torch
+opencv-python
+grad-cam
+numpy==1.23.1
